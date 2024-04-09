@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60f8efbb_002Df413_002D4924_002Db08a_002Dbc582f96a977/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FixedTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu8.Test_8_kyu.SampleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu7.Test_7_kyu.FixedTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu7.Test_7_kyu.ShouldWorkForSomeExamples&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu7.Test_7_kyu.Example&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.SampleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a2ee4bb6_002D8435_002D4c41_002Dbf92_002D4d5a00107c37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SampleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu8.Test_8_kyu.SampleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu7.Test_7_kyu.FixedTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu7.Test_7_kyu.ShouldWorkForSomeExamples&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu7.Test_7_kyu.Example&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.SampleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test6&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.KataTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
