@@ -64,31 +64,31 @@ public class Tests
     {
         Assert.AreEqual("emocleW", Kata.SpinWords("Welcome"));
     }
-  
+
     [Test]
     public static void Test2()
-    {  
+    {
         Assert.AreEqual("Hey wollef sroirraw", Kata.SpinWords("Hey fellow warriors"));
     }
-  
+
     [Test]
     public static void Test3()
     {
         Assert.AreEqual("This is a test", Kata.SpinWords("This is a test"));
     }
-  
+
     [Test]
     public static void Test4()
     {
         Assert.AreEqual("This is rehtona test", Kata.SpinWords("This is another test"));
     }
-  
+
     [Test]
     public static void Test5()
     {
         Assert.AreEqual("You are tsomla to the last test", Kata.SpinWords("You are almost to the last test"));
     }
-  
+
     [Test]
     public static void Test6()
     {
@@ -111,4 +111,101 @@ public class Tests
     }
 
     #endregion
+
+    #region Multiples of 3 or 5
+
+    [Test]
+    public void SampleTests()
+    {
+        Assertion(expected : 0, input : -10);
+        Assertion(expected : 0, input : -20);
+        Assertion(expected : 0, input : -200);
+        Assertion(expected : 0, input : 0);
+    }
+  
+    private static void Assertion(int expected, int input) =>
+        Assert.AreEqual(
+            expected,
+            Kata.Solution(input),
+            $"Value: {input}"
+        );
+    
+    #endregion
+
+    #region Convert string to camel case
+
+    [Test]
+    public void CamelTest()
+    {
+        Assert.AreEqual("theStealthWarrior", Kata.ToCamelCase("the_stealth_warrior"), "Kata.ToCamelCase('the_stealth_warrior') did not return correct value");
+        Assert.AreEqual("TheStealthWarrior", Kata.ToCamelCase("The-Stealth-Warrior"), "Kata.ToCamelCase('The-Stealth-Warrior') did not return correct value");
+    }
+
+    #endregion
+    
+    #region Multiplication table
+
+    [Test]
+    public void MyTest()
+    {
+        int[,] expected = new int[,]{{1,2,3},{2,4,6},{3,6,9}};
+        Assert.AreEqual(expected, Kata.MultiplicationTable(3));
+    }
+    
+    #endregion
+    
+    #region Decode the Morse code
+
+    [Test]
+    public void MorseCodeDecoderBasicTest_1()
+    {
+        try
+        {
+            string input = ".... . -.--   .--- ..- -.. .";
+            string expected = "HEY JUDE";
+
+            string actual = Kata.MorseDecode(input);
+
+            Assert.AreEqual(expected, actual);
+        }
+        catch(Exception ex)
+        {
+            Assert.Fail("There seems to be an error somewhere in your code. Exception message reads as follows: " + ex.Message);
+        }
+    }
+
+    #endregion
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }

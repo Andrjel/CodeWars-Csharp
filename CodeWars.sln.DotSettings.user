@@ -25,5 +25,9 @@
     &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test5&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.Test6&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.KataTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.SampleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.CamelTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.MyTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::867777E2-6A67-4681-9518-A16825C41C84::net8.0::CodeWars.kyu6.Tests.MorseCodeDecoderBasicTest_1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
